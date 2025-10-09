@@ -3,4 +3,4 @@
 
 Work through the notebook bert_probe.ipynb and complete all items labeled TODO. You may work locally or click on the button to open and run the notebooks on Google Colab. When working in Colab, you may checkpoint your work by clicking on "Save in GitHub to keep changes."
 
-When you are finished, save both notebooks as PDFs and submit to Gradescope.
+When you are finished, save the notebook as a PDF and submit it to Gradescope.
